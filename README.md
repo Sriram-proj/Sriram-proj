@@ -43,7 +43,7 @@ I'm interested in building reliable software, developing backend systems, and co
 
 ## 🤝 Connect With Me
 
-- LinkedIn: [Connect with me](https://www.linkedin.com/in/sriram-m-4a3301302/)
+- LinkedIn: [Connect with me](www.linkedin.com/in/sriram-murugavel-4a3301302)
 - GitHub: [Explore my repositories](https://github.com/Sriram-proj)
 
 ---
