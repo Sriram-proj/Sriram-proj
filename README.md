@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Sriram 👋
 
-<!--
-**Sriram-proj/Sriram-proj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer at NatWest
 
-Here are some ideas to get you started:
+I'm interested in building reliable software, developing backend systems, and continuously improving my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💼 Working as a Software Engineer at NatWest
+- ☕ Developing my skills in Java and Spring Boot
+- 🔧 Exploring REST APIs, databases, testing, and backend architecture
+- 🧩 Practising data structures and algorithms
+- 📈 Focused on writing clean, maintainable, and well-tested code
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Java
+- C++
+- JavaScript
+- SQL
+
+**Backend**
+- Spring Boot
+- Spring Data JPA
+- REST APIs
+
+**Frontend**
+- React
+- Tailwind CSS
+
+**Tools**
+- Git
+- GitHub
+- IntelliJ IDEA
+
+## 🎯 Current Focus
+
+- Building practical backend projects
+- Strengthening software engineering fundamentals
+- Improving problem-solving through coding practice
+- Learning software design and testing best practices
+
+## 🤝 Connect With Me
+
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/sriram-m-4a3301302/)
+- GitHub: [Explore my repositories](https://github.com/Sriram-proj)
+
+---
+
+*Build. Learn. Improve. Repeat.*
